@@ -8,7 +8,7 @@ Main features that have not (at least for now) been merged into the main reposit
 * Options page more similar to Chrome settings pages
 * Prettier message for blocked pages
 
-You can download it at: [github.com/dmfrancisco/Strict-Pomodoro/downloads](https://github.com/downloads/dmfrancisco/Strict-Pomodoro/Strict-Pomodoro.crx)  
+You can download it at: [github.com/dmfrancisco/Strict-Pomodoro/downloads](https://github.com/dmfrancisco/Strict-Pomodoro/downloads)
 Just drag the downloaded file into the extensions page (go to *Tools > Extensions* or paste *chrome://chrome/extensions/* in the address bar).
 
 Includes optional desktop notifications, which have not yet been added by the author to the Chrome Web Store version.
